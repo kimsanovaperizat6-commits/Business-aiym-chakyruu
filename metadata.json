@@ -1,0 +1,6 @@
+{
+  "name": "AIYM BUSINESS–2026 | Премиальное приглашение",
+  "description": "Интерактивная цифровая открытка-приглашение на международный женский бизнес-форум AIYM BUSINESS–2026 в Hyatt Regency Bishkek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
